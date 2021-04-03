@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Florence</h1>
 <h3 align="center">A UIX designer and full stack developer</h3>
 
-- 🔭 I’m currently working on [a chat room application](https://github.com/JamesLuu96/project-2)
+🔭 I’m currently working on [a chat room application](https://github.com/JamesLuu96/project-2)
 
-- 🌱 I’m currently learning **NoSQL**
+🌱 I’m currently learning **NoSQL**
 
-- 📫 How to reach me **kampflo2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
