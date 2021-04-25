@@ -2,13 +2,6 @@
 <h3>I'm a UIX designer and full stack developer</h3>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flokamp&show_icons=true&locale=en&layout=compact" alt="flokamp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flokamp&show_icons=true&locale=en" alt="flokamp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flokamp&" alt="flokamp" /></p>
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
