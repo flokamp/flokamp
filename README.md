@@ -4,12 +4,6 @@
 
 <!--START_SECTION:waka-->
 
-**🐱 My Github Data** 
-
-> 🏆 435 Contributions in the Year 2021
-
-> 🔑 10 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
