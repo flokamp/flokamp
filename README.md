@@ -1,5 +1,7 @@
 <h1>👋 Hi, I'm Florence</h1>
-<h3>I'm a UIX designer and full stack developer</h3>
+<h3>I'm a product designer and full stack developer</h3>
+<h3>so I guess you could say I'm like the swiss army knife of software</h3>
+
 
 
 <!--START_SECTION:waka-->
