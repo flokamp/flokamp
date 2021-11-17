@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Florence</h1>
-<h3>As a product designer & developer, I'm like the swiss army knife of software</h3>
+<h3>As a product designer & full-stack developer, I guess you could say I'm like the swiss army knife of software.</h3>
 
 
 
@@ -38,12 +38,6 @@ Friday       24 commits     █░░░░░░░░░░░░░░░░�
 Saturday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
 Sunday       149 commits    ██████░░░░░░░░░░░░░░░░░░░   24.63%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
 ```
 
 **I Mostly Code in JavaScript** 
