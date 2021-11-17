@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Florence</h1>
-<h3>As a product designer & full-stack developer, I guess you could say I'm like the swiss army knife of software.</h3>
+<h3>Product designer & software engineer</h3>
 
 
 
