@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 154.5 kB Used in GitHub's Storage 
  > 
@@ -18,7 +18,7 @@
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
