@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 13 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 154.8 kB Used in GitHub's Storage 
  > 
