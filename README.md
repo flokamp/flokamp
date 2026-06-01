@@ -12,7 +12,7 @@
 
 > 📦 156.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,6 +20,27 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌆 Daytime                638 commits         ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+🌃 Evening                1307 commits        ███████████████░░░░░░░░░░   58.72 % 
+🌙 Night                  89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Tuesday                  359 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Wednesday                503 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Thursday                 164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Saturday                 256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Sunday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+```
+
+
 **I Mostly Code in JavaScript** 
 
 ```text
