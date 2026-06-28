@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,20 +23,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                769 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌃 Evening                1374 commits        ██████████████░░░░░░░░░░░   54.98 % 
+🌞 Morning                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+🌆 Daytime                768 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌃 Evening                1374 commits        ██████████████░░░░░░░░░░░   55.00 % 
 🌙 Night                  89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Tuesday                  557 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Wednesday                503 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Thursday                 239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Saturday                 256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Tuesday                  556 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Wednesday                503 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Thursday                 239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Saturday                 256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 Sunday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 ```
 
